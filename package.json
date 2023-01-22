@@ -1,6 +1,6 @@
 {
   "name": "@sunny-117/mt-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "bin": {
     "mtc": "bin/bin.js"
