@@ -1,5 +1,5 @@
 {
-  "name": "mt-cli",
+  "name": "@sunny-117/mt-cli",
   "version": "0.0.1",
   "main": "index.js",
   "type": "module",
