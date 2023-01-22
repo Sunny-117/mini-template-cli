@@ -11,5 +11,7 @@ npm i -g @sunny-117/mt-cli
 ## usage
 
 ```
-npx mtc <PorjectName>
+npx mtc create <PorjectName>
+// or
+mtc create <PorjectName>
 ```
